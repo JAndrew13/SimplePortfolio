@@ -7,6 +7,7 @@
 
  Though it looks quite dated, the objective was to get comfortable with the HTML layout, CSS classes, and commonly used elements like divs, image links, paragraphs , and headings. In this project, I learned how to set site fonts with google, as well as handle container layout and contents within. 
 
+<img src="https://github.com/JAndrew13/SimplePortfolio/blob/main/portfolio.jpg" width="500">
 
 <!-- TABLE OF CONTENTS -->
   #### Table of contents
