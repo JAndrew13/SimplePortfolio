@@ -37,10 +37,10 @@
 <!-- DIRECTORY -->
 ## Directory
 
-### [/CSS](https://github.com/JAndrew13/Web-Dev-Bootcamp/tree/main/Simple%20Portfolio/CSS)
+### [/CSS](https://github.com/JAndrew13/SimplePortfolio/tree/main/CSS)
 Folder containing CSS style sheet linked to the HTML document
 
-### [/images](https://github.com/JAndrew13/Web-Dev-Bootcamp/tree/main/Simple%20Portfolio/)
+### [/images](https://github.com/JAndrew13/SimplePortfolio/tree/main/images)
 Contains all image files used in the web page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
